@@ -38,8 +38,8 @@
   
   button {
     font: inherit;
-    background: #ff0062;
-    border: 1px solid #ff0062;
+    background: green;
+    border: 1px solid black;
     cursor: pointer;
     color: white;
     padding: 0.75rem 1rem;
@@ -57,11 +57,11 @@
   
   .projects {
     margin: 1rem;
-    border: 1px solid #ff0062;
+    border: 1px solid black;
   }
   
   .projects header {
-    background: #ff0062;
+    background: green;
     height: 3.5rem;
     display: flex;
     justify-content: center;
@@ -95,7 +95,7 @@
   }
   
   .projects li h2 {
-    color: #ff0062;
+    color: black;
     margin: 0.5rem 0;
   }
   
@@ -104,7 +104,7 @@
   }
   
   .projects li h3 {
-    color: #575757;
+    color:black;
     font-size: 1rem;
   }
   
